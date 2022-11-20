@@ -12,9 +12,15 @@ public class SortArray {
 		    System.out.println(a[i]);
 		}
 		
+
+		//Devi code without downloading master updated code
+		
+		System.out.println("devi coding");
+
 		//my coding
 		
 		System.out.println(" I have cloned my code with master coding");
+
 	}
 
 }
